@@ -1,5 +1,5 @@
 def prime?(interger)
-  if n<
+  if n<3
     return true
     elsif interger==1
       return true
